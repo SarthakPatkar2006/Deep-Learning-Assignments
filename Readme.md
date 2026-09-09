@@ -552,7 +552,7 @@ The implementations and explanations are based on concepts from:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Sarthak Anil Patkar**
 
 Computer Science / AI & ML Student
 
